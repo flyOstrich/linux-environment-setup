@@ -1,8 +1,24 @@
 # linux oh my zsh setup
 
-## 1. [official site link](http://ohmyz.sh/)
 
-## 2. run the following code under terminal:
+## 1. first , install zsh 
+ ```
+  sudo apt-get install zsh
+ ```
+## 2. use zsh as our default shell
+```
+  sudo chsh -s $(which zsh)
+```
+
+## 3. install git 
+
+```
+  sudo apt-get install git
+```
+
+## 4. [official site link](http://ohmyz.sh/)
+
+## 5. run the following code under terminal:
 
 
 via get
